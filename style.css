@@ -6,7 +6,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: center;
-  background: url('download.jpeg') no-repeat center center/cover;
+  background: url('https://github.com/ikramed/login-exm/blob/main/download.jpeg') no-repeat center center/cover; 
   font-family: Arial, sans-serif;
 }
 
